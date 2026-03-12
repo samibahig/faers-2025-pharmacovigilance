@@ -1,0 +1,26 @@
+# Raw FAERS data (too large for GitHub — download from FDA directly)
+data/raw/
+*.zip
+ASCII/
+*.txt
+
+# Large intermediate files
+faers_2025_nlp.csv
+faers_2025_stats_summary.csv
+faers_2025_top_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+*.egg-info/
+
+# Colab
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
