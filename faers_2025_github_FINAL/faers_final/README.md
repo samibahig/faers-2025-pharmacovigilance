@@ -8,6 +8,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Pro+-F9AB00?style=for-the-badge&logo=google-colab)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samibahig/faers-2025-pharmacovigilance/blob/main/notebooks/faers_pipeline.ipynb)
 
 **End-to-end Big Data & AI pipeline processing 28 million FDA FAERS records**  
 **Signal detection · NLP clustering · Predictive pharmacovigilance**
